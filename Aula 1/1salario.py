@@ -1,9 +1,14 @@
 #Atividade 1 Salario
 
 nome = input("Digite o seu nome: ")
-salario = float(input("Digite o seu salario: "))
+salario = float(input("Digite o seu salário: "))
 
-print(f"Seu nome é {nome} e o seu salario é de R${salario}")
+print("\n===== Dados do Funcionário =====")
+print(f"Nome: {nome}")
+print(f"Salário: R$ {salario:,.2f}")
+print("=" * 32)
+
+
 
 
 
