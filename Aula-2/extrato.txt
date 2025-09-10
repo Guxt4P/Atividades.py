@@ -1,0 +1,46 @@
+
+===== COMPROVANTE =====
+Data/Hora : 10/09/2025 08:58:17
+Operação  : Consulta de Saldo
+Saldo     : R$ 500.00
+=======================
+
+===== COMPROVANTE =====
+Data/Hora : 10/09/2025 08:58:43
+Operação  : Saque
+Valor     : R$ 10.00
+Saldo     : R$ 490.00
+=======================
+
+===== COMPROVANTE =====
+Data/Hora : 10/09/2025 08:58:46
+Operação  : Saque
+Valor     : R$ 10.00
+Saldo     : R$ 480.00
+=======================
+
+===== COMPROVANTE =====
+Data/Hora : 10/09/2025 08:59:06
+Operação  : Saque
+Valor     : R$ 10.00
+Saldo     : R$ 470.00
+=======================
+
+===== COMPROVANTE =====
+Data/Hora : 10/09/2025 08:59:17
+Operação  : Depósito
+Valor     : R$ 10000.00
+Saldo     : R$ 10470.00
+=======================
+
+===== COMPROVANTE =====
+Data/Hora : 10/09/2025 08:59:27
+Operação  : Consulta de Saldo
+Saldo     : R$ 10470.00
+=======================
+
+===== COMPROVANTE =====
+Data/Hora : 10/09/2025 08:59:32
+Operação  : Consulta de Saldo
+Saldo     : R$ 10470.00
+=======================
